@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
 from PIL import ImageTk, Image
 import tkinter as tk
 from tkinter import filedialog
