@@ -1,4 +1,4 @@
-# PHoenjx_Backup_2.4
+# PHoenjx Backup 2.4
 Simple Backup script, that will make your work faster
 
 # Download and install
