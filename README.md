@@ -8,7 +8,8 @@ All you need to use this program is download 'Backup.py' and 'Mint Lizard team 2
 # Linux
 
 Linux can raise "ImportError: cannot import name 'imageTk' from 'PIL'"
-Do
+
+Do:
 ```
 sudo apt-get install python3-pil python3-pil.imagetk
 ```
